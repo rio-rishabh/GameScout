@@ -113,6 +113,7 @@ For any questions or feedback, please reach out to:
 - **Name**: Rishabh Sharma
 - **Email**: sharma.rishabh@northeastern.edu
 - **GitHub**: https://github.com/rio-rishabh
+- - **Linkedin**: www.linkedin.com/in/rishabhsharma7942
 
 Feel free to contribute to the project by submitting a pull request or raising issues.
 
