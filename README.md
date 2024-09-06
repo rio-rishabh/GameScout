@@ -111,8 +111,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 For any questions or feedback, please reach out to:
 
 - **Name**: Rishabh Sharma
-- **Email**: rishabhsharma@example.com
-- **GitHub**: [github.com/rishabhsharma](https://github.com/rishabhsharma)
+- **Email**: sharma.rishabh@northeastern.edu
+- **GitHub**: https://github.com/rio-rishabh
 
 Feel free to contribute to the project by submitting a pull request or raising issues.
 
