@@ -14,6 +14,7 @@ struct GameWork : Hashable, Identifiable{
     var imageName :String
     var urlString : String
     var gameDescription: String
+    var isFavorite: Bool = false
 }
 
 struct MockData{

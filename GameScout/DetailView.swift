@@ -11,6 +11,7 @@ struct DetailView: View {
     var gamework : GameWork
     @Binding var isShowingDetailView: Bool
     @State private var isShowingSafariView : Bool = false
+    @Binding var favorites : Set<GameWork>
     
     var body: some View {
         ScrollView{
@@ -29,7 +30,14 @@ struct DetailView: View {
                 .padding()
                 
                 Spacer()
-                GameTitleView(gamework: gamework)
+                GameTitleView(gamework: gamework, isFavorite: favorites.contains(gamework), toggleFavorite: {
+                    if favorites.contains(gamework){
+                        favorites.remove(gamework)
+                    }
+                    else{
+                        favorites.insert(gamework)
+                    }
+                })
                 Text(gamework.gameDescription)
                     .font(.body)
                     .padding()
@@ -55,6 +63,6 @@ struct DetailView: View {
 
 struct DetailView_Previews: PreviewProvider{
     static var previews: some View {
-        DetailView(gamework: MockData.sampleGameWork, isShowingDetailView: .constant(false))
+        DetailView(gamework: MockData.sampleGameWork, isShowingDetailView: .constant(false), favorites: .constant(Set<GameWork>()))
     }
 }
