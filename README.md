@@ -120,3 +120,17 @@ Feel free to contribute to the project by submitting a pull request or raising i
 --- 
 
 This README provides a comprehensive guide to the GameScout project, explaining its functionality, usage, and potential improvements. The goal is to help developers and users understand the structure and purpose of the app.
+
+
+
+<img width="312" alt="Screenshot 2024-09-06 at 5 29 33 PM" src="https://github.com/user-attachments/assets/12ba5788-1e9c-49f4-be5e-c97d43dcb3f5">
+
+<img width="317" alt="Screenshot 2024-09-06 at 5 29 50 PM" src="https://github.com/user-attachments/assets/b55c4618-cb12-4343-940b-06045c9efa10">
+
+<img width="312" alt="Screenshot 2024-09-06 at 5 30 05 PM" src="https://github.com/user-attachments/assets/aa910106-cf7e-41a4-9195-49137781a616">
+
+<img width="325" alt="Screenshot 2024-09-06 at 5 30 29 PM" src="https://github.com/user-attachments/assets/9dd5831b-ee0e-4578-8d73-cca765d119e6">
+
+<img width="329" alt="Screenshot 2024-09-06 at 5 30 57 PM" src="https://github.com/user-attachments/assets/94c328d8-3af5-46d3-8f3b-12d0fd5a4a2b">
+
+
